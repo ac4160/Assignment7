@@ -32,17 +32,20 @@ In a text file `assignment7.txt`, answer the following questions:
 - Write "invalid" if a given expression is not a valid C expression.
 - Make sure sure to explain each of your answers. 
 
- 4.1 "abc"
- 4.2 "xyz"[1] - ’y’
- 4.3 ’\0’ == 0
- 4.4 *a
- 4.5 &a[0]
- 4.6 *p
- 4.7 &p
- 4.8 *++argv
- 4.9 &main
- 4.10 sizeof(str)
+ 4.1 "abc" <br>
+ 4.2 "xyz"[1] - ’y’ <br>
+ 4.3 ’\0’ == 0 <br>
+ 4.4 *a <br>
+ 4.5 &a[0] <br>
+ 4.6 *p <br>
+ 4.7 &p <br>
+ 4.8 *++argv <br>
+ 4.9 &main <br>
+ 4.10 sizeof(str) <br>
 
+### Part 3:
+
+Submit your final project proposal in the "Final Project" Repository. 
 
 ### Submission Guidelines
 Please include your name and a description in a comment at the top of your code files. Please also include your name at the top of your assignment7.txt file.
